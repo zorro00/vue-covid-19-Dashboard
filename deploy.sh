@@ -10,5 +10,5 @@ cd dist
 git init
 git add -A
 git commit -m 'deploy'
-git push -f git@github.com:zorro00/vue-covid-19-Dashboard.git master:gh-pages
+git push -f git@github.com:zorro00/vue-covid-19-dashboard.git master:gh-pages
 cd -
